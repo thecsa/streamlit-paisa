@@ -1,0 +1,8 @@
+streamlit
+pandas
+yfinance
+tefas-crawler
+plotly
+sqlalchemy
+openpyxl
+streamlit-option-menu
